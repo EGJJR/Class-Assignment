@@ -1,5 +1,22 @@
 /* add code here to make your image 300px square */
-
+Pet Picture {
+    width: 300px;
+    height: 300px;
+}
 /* add code here to change the color and font family of your name/title */
+.hero {
+    background-color: #1c1d25 ;
+    color: white;
+    font-size: 40px;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.title {
+    color: orange;
+    font-size: 40px;
+}
+    
 
 /* Bonus: change the color of your list elements */
